@@ -12,7 +12,7 @@
 
 ### About me
 
-I'm a software engineer with experience in **enterprise software, backend integrations, workflow automation and cloud engineering**. My professional background includes **IBM** and the **STACKIT Cloud Accelerator Program at Schwarz Digits**.
+I'm a software engineer with hands-on experience in **Kotlin, Spring Boot, Java, Angular, TypeScript, MongoDB**, and **enterprise software, backend integrations, workflow automation and cloud engineering**. My professional background includes **IBM** and the **STACKIT Cloud Accelerator Program at Schwarz Digits**.
 
 I earned my **MSc in Software Engineering at the National University of Sciences and Technology (NUST)** with a **3.85/4.00 CGPA**. I'm especially interested in **building dependable software systems**, understanding how distributed services behave under failure, and applying data/AI methods thoughtfully.
 
@@ -25,12 +25,19 @@ I earned my **MSc in Software Engineering at the National University of Sciences
 
 | Area | Tools and technologies |
 | --- | --- |
-| **Programming** | Python · Go · Java · SQL · C++ · Bash |
-| **Backend** | REST APIs · HTTP · SQL · automation · application integration |
-| **Cloud and platform** | Linux · Docker · Kubernetes · Helm · Azure · AWS · STACKIT |
+| **Programming** | Kotlin · Java · Python · Go · TypeScript · SQL · C++ · Bash |
+| **Backend** | Spring Boot · REST APIs · MongoDB · PostgreSQL · SQL · HTTP · automation · application integration |
+| **Frontend** | Angular · TypeScript · HTML · CSS |\n| **Cloud and platform** | Linux · Docker · Kubernetes · Helm · Azure · AWS · STACKIT |
 | **Delivery and DevOps** | Git · GitLab CI/CD · GitHub Actions · FluxCD · Terraform |
 | **AI and data** | pandas · scikit-learn · data preprocessing · model evaluation |
 | **Architecture and operations** | distributed systems · Raft concepts · observability · Prometheus · Grafana |
+
+### Full-stack engineering highlights
+
+| Repository | Highlights |
+| --- | --- |
+| 🖥️ [AssetFlow — Kotlin + Angular + MongoDB](https://github.com/sfk219/assetflow-kotlin-angular) | Kotlin · Spring Boot · Spring Data MongoDB · Angular · TypeScript · REST APIs · Docker Compose |
+| 📦 [OrderFlow — Java + PostgreSQL](https://github.com/sfk219/orderflow-java-postgres) | Java 21 · Spring Boot · PostgreSQL · JPA · Flyway · transactional inventory management |
 
 ### Projects connected to my CV
 
