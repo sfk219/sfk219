@@ -27,10 +27,21 @@ I earned my **MSc in Software Engineering at the National University of Sciences
 | --- | --- |
 | **Programming** | Kotlin · Java · Python · Go · TypeScript · SQL · C++ · Bash |
 | **Backend** | Spring Boot · REST APIs · MongoDB · PostgreSQL · SQL · HTTP · automation · application integration |
-| **Frontend** | Angular · TypeScript · HTML · CSS |\n| **Cloud and platform** | Linux · Docker · Kubernetes · Helm · Azure · AWS · STACKIT |
+| **Frontend** | Angular · TypeScript · HTML · CSS |
+| **Cloud and platform** | Linux · Docker · Kubernetes · Helm · Azure · AWS · STACKIT |
 | **Delivery and DevOps** | Git · GitLab CI/CD · GitHub Actions · FluxCD · Terraform |
 | **AI and data** | pandas · scikit-learn · data preprocessing · model evaluation |
 | **Architecture and operations** | distributed systems · Raft concepts · observability · Prometheus · Grafana |
+
+### Featured advanced coding projects
+
+These repositories emphasize practical engineering design, failure handling, and maintainable implementation.
+
+| Repository | What I built |
+| --- | --- |
+| 🚦 [PulseGate — Go API Gateway](https://github.com/sfk219/pulsegate-go) | Go · concurrent HTTP proxy · token-bucket rate limiting · circuit breaker · metrics · tests |
+| 🧵 [EventMesh — Java Event Processor](https://github.com/sfk219/eventmesh-java) | Java 21 · Spring Boot · bounded worker queue · deduplication · retries · dead-letter handling · REST APIs |
+| 📉 [ModelWatch — MLOps Monitoring](https://github.com/sfk219/modelwatch-mlops) | Python · FastAPI · scikit-learn · reproducible model training · inference · feature drift/PSI |
 
 ### Full-stack engineering highlights
 
@@ -46,9 +57,9 @@ These **newly authored, independent public demonstration implementations** are a
 | Repository | Highlights |
 | --- | --- |
 | 🔁 [Raft Consensus Lab](https://github.com/sfk219/raft-consensus-lab) | Go · leader election · quorum · log replication · failover simulator · unit tests |
-| ⚙️ [Python Task Automation Service](https://github.com/sfk219/python-task-automation-service) | FastAPI · SQLite job queue · background worker · task-state API · Docker Compose |
+| ⚙️ [Python Task Automation Service](https://github.com/sfk219/python-task-automation-service) | FastAPI · SQLite job queue · background worker · REST API · tests |
 | 📈 [Predictive Maintenance ML](https://github.com/sfk219/predictive-maintenance-ml) | scikit-learn · synthetic equipment data · leakage-resistant pipeline · metrics |
-| ☁️ [Azure Terraform Foundations](https://github.com/sfk219/azure-terraform-foundations) | Terraform modules · Azure virtual networking · subnets · NSG · CI validation config |
+| ☁️ [Azure Terraform Foundations](https://github.com/sfk219/azure-terraform-foundations) | Terraform · Azure virtual networking · subnets · NSG · infrastructure validation |
 
 ### More independent coding projects
 
