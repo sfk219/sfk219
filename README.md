@@ -61,6 +61,12 @@ These **newly authored, independent public demonstration implementations** are a
 | 📈 [Predictive Maintenance ML](https://github.com/sfk219/predictive-maintenance-ml) | scikit-learn · synthetic equipment data · leakage-resistant pipeline · metrics |
 | ☁️ [Azure Terraform Foundations](https://github.com/sfk219/azure-terraform-foundations) | Terraform · Azure virtual networking · subnets · NSG · infrastructure validation |
 
+### Research-oriented machine learning
+
+| Project | What it explores |
+| --- | --- |
+| 🧬 [Calibration Feedback GP — Clinical Missing-Data Research](https://github.com/sfk219/calibration-feedback-gp) | Python · genetic programming · UCI Cleveland Heart Disease · missing-data robustness · optional LLM feedback · reproducible experiments · tests |
+
 ### More independent coding projects
 
 | Repository | Highlights |
