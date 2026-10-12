@@ -71,3 +71,13 @@ These **newly authored, independent public demonstration implementations** are a
 I'm interested in **backend engineering, cloud/platform engineering, DevOps, software development and data/ML engineering** roles. I enjoy learning, writing maintainable code and collaborating across disciplines.
 
 ➡️ [Connect with me on LinkedIn](https://www.linkedin.com/in/samra-faisal-khan-6a5232142/) · [Explore my repositories](https://github.com/sfk219?tab=repositories)
+
+### Engineering projects: search, security and uncertainty
+
+| Project | Technical focus |
+| --- | --- |
+| 🔎 [SourceGround Search](https://github.com/sfk219/sourceground-search) | Python · SQLite FTS5/BM25 · FastAPI · evidence citations · tests |
+| 🛡️ [K8s PolicyGuard](https://github.com/sfk219/k8s-policyguard) | Python · Kubernetes manifest auditing · RBAC checks · SARIF · tests |
+| 📐 [StoryPoint Uncertainty Lab](https://github.com/sfk219/storypoint-uncertainty-lab) | Random Forest · conformal intervals · holdout evaluation · synthetic Agile data |
+
+> All public projects are independent portfolio examples and not copies of employer-owned code or datasets. Hosted CI and infrastructure builds should be reviewed individually.
