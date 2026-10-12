@@ -4,7 +4,7 @@
   Based in Germany · MSc Software Engineering (NUST) · Open to software and cloud engineering opportunities
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/samra-faisal-khan-6a5232142/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/engr-samra-faisal-khan-6a5232142/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/sfk219?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/GitHub-Explore%20my%20projects-24292F?logo=github&logoColor=white" /></a>
 </p>
 
@@ -81,7 +81,7 @@ These **newly authored, independent public demonstration implementations** are a
 
 I'm interested in **backend engineering, cloud/platform engineering, DevOps, software development and data/ML engineering** roles. I enjoy learning, writing maintainable code and collaborating across disciplines.
 
-➡️ [Connect with me on LinkedIn](https://www.linkedin.com/in/samra-faisal-khan-6a5232142/) · [Explore my repositories](https://github.com/sfk219?tab=repositories)
+➡️ [Connect with me on LinkedIn](https://www.linkedin.com/in/engr-samra-faisal-khan-6a5232142/) · [Explore my repositories](https://github.com/sfk219?tab=repositories)
 
 ### Engineering projects: search, security and uncertainty
 
